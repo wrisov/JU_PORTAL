@@ -98,7 +98,8 @@ app.post('/signup', function(req, res) {
     name: req.body.name,
     email: req.body.email,
     username: req.body.username,
-    password: req.body.password
+    password: req.body.password,
+    batch: req.body.batch,
   })
   console.log(req.body);
 

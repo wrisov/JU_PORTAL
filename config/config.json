@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "wrisov",
+    "username": "root",
     "password": null,
-    "database": "socialnetwork",
+    "database": "social_network",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
